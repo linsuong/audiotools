@@ -1,5 +1,5 @@
 import numpy as np
-from matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 class Room(self, size, reflectorType):
     """
@@ -26,4 +26,3 @@ def rayTracing():
 
 def FDTD():
     return None
-
